@@ -37,21 +37,6 @@ Soy un desarrollador de software especializado en backend con experiencia en mic
 ### Metodologías Ágiles
 | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white) | ![Level](https://progress-bar.dev/90) | ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white) | ![Level](https://progress-bar.dev/85) |
 
-## 🚀 Proyectos Destacados
-
-### [Proyecto 1](https://github.com/tu_usuario/proyecto1)
-Descripción breve del proyecto 1 y las tecnologías utilizadas.
-
-### [Proyecto 2](https://github.com/tu_usuario/proyecto2)
-Descripción breve del proyecto 2 y las tecnologías utilizadas.
-
-### [Proyecto 3](https://github.com/tu_usuario/proyecto3)
-Descripción breve del proyecto 3 y las tecnologías utilizadas.
-
-## 🎓 Educación
-
-### CIBERTEC
-**Computación e Informática | 2015 - 2018**
 
 ## 📫 Contacto
 
